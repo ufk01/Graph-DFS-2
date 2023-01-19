@@ -9,6 +9,8 @@ Figure:
 1) a-e-f
 2) a-b-e-f
 3) a-c-e-f
+
+
 If you cannot find any path, just print “No path”.
 City and road information should be read from the user.
 Here is the sample argument:
